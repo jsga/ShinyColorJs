@@ -1,4 +1,4 @@
-Package: ShinyFiddle
+Package: shinyFiddle
 Title: Allows the user to change several properties from elements in a shiny app.
 Version: 0.1.0
 Author: Javier Saez Gallego
