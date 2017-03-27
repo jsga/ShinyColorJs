@@ -5,15 +5,15 @@ This R package includes a set of functions that allow the user to modify the fol
 3. Change the color of the tab title  
 4. Change background color of a tab
 
-# Example
+## Example
 
-## Intall package
+### Intall package
 ```{r}
 require(devtools)
 install_github('jsga/shinyFiddle')
 ```
 
-## Example: showcase
+### Shiny app example: showcase
 
 The example can be simply run by `shinyFiddle_example()`, or, similarly, by the following example:
 
