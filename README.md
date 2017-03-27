@@ -1,9 +1,9 @@
 # shinyFiddle
 This R package includes a set of functions that allow the user to modify the following details that cannnot be modified directly by the dfeault functions:
-1. Add placeholder to numericInput elements 
-2. Change the boder color of a numericInput 
-3. Change the color of the tab title  
-4. Change background color of a tab
+1. placeholder_numericInput: add placeholder to numericInput elements 
+2. boderCol_numericInput: change the boder color of a numericInput 
+3. change_color_tab: change the color of the tab title  
+4. change_bgcolor_tab: change background color of a tab
 
 ## Example
 
