@@ -1,5 +1,9 @@
 # shinyFiddle
-To do
+This R package includes a set of functions that allow the user to modify the following details that cannnot be modified directly by the dfeault functions:
+1. Add placeholder to numericInput elements 
+2. Change the boder color of a numericInput 
+3. Change the color of the tab title  
+4. Change background color of a tab
 
 # Example
 
@@ -9,7 +13,10 @@ require(devtools)
 install_github('jsga/shinyFiddle')
 ```
 
-## Example 
+## Example: showcase
+
+The example can be simply run by `shinyFiddle_example()`, or, similarly, by the following example:
+
 ```{r}
   require(shiny)
   require(shinyjs)

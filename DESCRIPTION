@@ -3,7 +3,7 @@ Title: Allows the user to change several properties from elements in a shiny app
 Version: 0.1.0
 Author: Javier Saez Gallego
 Maintainer: Javier Saez Gallego <javiersaezgallego@gmail.com>
-Description: This package includes a set of functions that allow the user to modify things like: - Add placeholder to numericInput elements - Change the boder color of a numericInput - Change the color of the tab title  - Change background color of a tab
+Description: This package includes a set of functions that allow the user to fiddle with non-sandard details from a shiny application. 1) Add placeholder to numericInput elements 2) Change the boder color of a numericInput 3) Change the color of the tab title  4) Change background color of a tab
 URL: https://github.com/jsga
 License: GPL-3
 Encoding: UTF-8
